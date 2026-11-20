@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# AI Agent & Workspace Local Data
+.agent/
+.agents/
+.gemini/
+theme_settings.json
